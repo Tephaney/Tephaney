@@ -8,7 +8,7 @@
   - JavaScript, Bootstrap, HTML, CSS
   - Responsive Design
 
-- <b>[MERN E-Commerce Store with Admin Dashboard](https://github.com/Tephaney/meaningful-apparel)<b>
+- <b>[MERN E-Commerce Store with Admin Dashboard](https://github.com/Tephaney/EcommerceStore)<b>
   - Full Stack Web App (React, Redux, Node.js, Express, MongoDB, Mongoose, JWT, Rest API, Shopping API, Stripe)
   - Functioning Payment System
   - Responsive Design
