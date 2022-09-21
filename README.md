@@ -39,7 +39,6 @@
   
 <h2>📖 Education/Certifications</h2>
 
-- Master of Science: Software Development, Expected 2024
 - Full Stack Web & Mobile App Development, Sept. 2022
 - UX/UI Web & Mobile Design, March 2022
 - Bachelor of Arts: Sociology, June 2005
